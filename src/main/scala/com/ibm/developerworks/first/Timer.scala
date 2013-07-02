@@ -1,4 +1,4 @@
-package com.ibm.developerworks
+package com.ibm.developerworks.first
 
 /**
  * Created with IntelliJ IDEA.
